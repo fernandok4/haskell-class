@@ -1,4 +1,4 @@
-module Exercises where
+module Section3 where
 
     -- Exercicio 2 - Faça o tipo Temperatura que pode ter valores Celsius, Farenheit ou Kevin. Implemente as funções:
     
