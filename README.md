@@ -1,1 +1,1 @@
-# haskell-class
+# Exercises practicing Haskel Language
